@@ -1,0 +1,22 @@
+h1{
+  text-align:center;
+  color:blue;
+}
+h2{
+  text-align:center;
+  color:brown;
+}
+body{
+  color:pink;
+  text-align:center;
+}
+background{
+  color:skyblue;
+}
+.junior{
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+  background-color:black;
+}
+  
