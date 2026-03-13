@@ -1,22 +1,22 @@
 h1{
   text-align:center;
-  color:blue;
+  color:#0000ff;
 }
 h2{
   text-align:center;
-  color:brown;
+  color:#ff00ff;
 }
 body{
-  color:pink;
+  color:#808000;
   text-align:center;
 }
-background{
-  color:grey;
+background-color{
+  color:#00ffff;
 }
 .junior{
   border-width:2px;
   border-style:solid;
-  border-color:black;
-  background-color:black;
+  border-color:#000000;
+  background-color:#000000;
 }
   
