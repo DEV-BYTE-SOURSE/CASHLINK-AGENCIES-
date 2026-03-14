@@ -1,3 +1,12 @@
+p{
+  text-font:32px;
+  color:#008080;
+  text-align:center;
+}
+h3{ 
+  text-align:center;
+  color:#8b5742;
+  }
 h1{
   text-align:center;
   color:#0000ff;
@@ -8,7 +17,8 @@ h2{
 }
 body{
   color:#808000;
-  text-align:center;
+  text-align:left;
+  bacground-color:#000080;
 }
 background-color{
   color:#00ffff;
